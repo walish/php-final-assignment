@@ -6,7 +6,6 @@ $newsModel = new NewsModel();
 $news = null;
 $result = $newsModel->getNewsByName($_POST['search']);
 
-print_r( $_POST['search']);
 
 if (!isset($result['err'])) {
     $news = $result['data'];
@@ -38,14 +37,16 @@ if (!isset($result['err'])) {
 <body>
   <div class="container">
     <div class="table-wrapper">
+<a href="index.php" style="margin-bottom: 50px">Go to home</a>
 
-
+    <div class="row" data-id="<?php echo $news_['id'] ?>">
+    
       <?php if ($news == null) {?>
-          
+          <div>Data empty!</div>
       <?php } else {?>
-            
+           
 
-            <div class="row" data-id="<?php echo $news_['id'] ?>">
+            
             
               <?php foreach ($news as $key => $news_) {?>
                   <div class="col-md-3">
