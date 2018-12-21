@@ -1,0 +1,52 @@
+a, a:hover, a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+.action__button {
+    margin-right: 1rem;
+}
+
+.action__button--edit {
+    color: #28a745 !important;
+}
+
+.action__button--delete {
+    color: #c82333 !important;
+}
+
+.main-content__title {
+    margin-bottom: 2rem;
+}
+
+.highlight {
+    color: #563d7c;
+}
+
+.dialog {
+    padding: 6px 12px;
+    border-radius: 5px;
+}
+
+.dialog--success {
+    background-color: #28a745;
+}
+
+.dialog--failure {
+    background-color: #c82333;
+    color: #fff !important;
+}
+
+.dialog__dismiss-button {
+    display: inline-block;
+    color: #fff !important;
+    margin-right: 12px;
+}
+
+.dialog__dismiss-button:hover {
+    cursor: pointer;
+}
