@@ -3,14 +3,14 @@
 include('../simple_html_dom.php');
  
 // get DOM from URL or file
-$html = file_get_html('http://www.doisongphapluat.com/tin-tuc/tin-trong-nuoc/cong-bo-diem-chuan-vao-lop-10-o-tphcm-a101545.html');
+$html = file_get_html('http://www.doisongphapluat.com/tin-tuc/');
 
 // find all link
-//foreach($html->find('a') as $e) 
-//    echo $e->href . '<br>';
+foreach($html->find('a') as $e) 
+  echo $e->href . '<br>';
 
 // find all image
-/*foreach($html->find('img') as $e)
+foreach($html->find('img') as $e)
     echo $e->src . '<br>';
 
 // find all image with full tag
@@ -27,13 +27,13 @@ foreach($html->find('span.gb1') as $e)
 
 // find all td tags with attribite align=center
 foreach($html->find('td[align=center]') as $e)
-    echo $e->innertext . '<br>';*/
+    echo $e->innertext . '<br>';
     
 // extract text from table
-//echo $html->find('td[align="center"]', 1)->plaintext.'<br><hr>';
+echo $html->find('td[align="center"]', 1)->plaintext.'<br><hr>';
 
 // extract text from HTML
-//echo $html->plaintext;
+echo $html->plaintext;
 
 $title= "";
 foreach($html->find('h1.art-title') as $e)
