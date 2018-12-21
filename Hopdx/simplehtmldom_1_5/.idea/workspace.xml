@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a62a2051-c371-4252-ae92-302498a4ee0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/.svn/text-base/google.htm.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/.svn/text-base/index.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/google.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/.svn/text-base/jquery.js.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/.svn/text-base/jquery.treeview.css.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/.svn/text-base/jquery.treeview.js.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/.svn/text-base/screen.css.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/images/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/images/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/images/.svn/prop-base/treeview-default-line.gif.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/images/.svn/prop-base/treeview-default.gif.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/images/.svn/text-base/treeview-default-line.gif.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/images/.svn/text-base/treeview-default.gif.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/images/treeview-default-line.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/images/treeview-default.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/jquery.treeview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/jquery.treeview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/app/js/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/change_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/.svn/prop-base/example_callback.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/.svn/prop-base/example_extract_html.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/.svn/text-base/example_advanced_selector.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/.svn/text-base/example_basic_selector.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/.svn/text-base/example_callback.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/.svn/text-base/example_extract_html.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/.svn/text-base/example_modify_contents.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/.svn/text-base/simple_html_dom_utility.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/example_advanced_selector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/example_basic_selector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/example_callback.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/example_extract_html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/example_modify_contents.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/scraping/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/scraping/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/scraping/.svn/prop-base/example_scraping_digg.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/scraping/.svn/prop-base/example_scraping_imdb.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/scraping/.svn/prop-base/example_scraping_slashdot.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/scraping/.svn/text-base/example_scraping_digg.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/scraping/.svn/text-base/example_scraping_imdb.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/scraping/.svn/text-base/example_scraping_slashdot.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/scraping/example_scraping_digg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/scraping/example_scraping_imdb.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/scraping/example_scraping_slashdot.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/example/simple_html_dom_utility.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/.svn/prop-base/manual.htm.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/.svn/prop-base/manual_api.htm.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/.svn/prop-base/manual_faq.htm.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/.svn/text-base/manual.htm.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/.svn/text-base/manual_api.htm.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/.svn/text-base/manual_faq.htm.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/css/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/css/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/css/.svn/text-base/default.css.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/css/.svn/text-base/ui.tabs.css.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/css/ui.tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/img/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/img/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/img/.svn/prop-base/tab.png.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/img/.svn/text-base/tab.png.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/img/tab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/js/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/js/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/js/.svn/text-base/jquery-1.2.3.pack.js.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/js/.svn/text-base/ui.tabs.pack.js.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/js/jquery-1.2.3.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/js/ui.tabs.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/manual.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/manual_api.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/manual/manual_faq.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/simple_html_dom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/all_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/callback_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/dom_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/element_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/invalid_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/jquery-1.2.3.pack.js.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/mass_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/memory_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/misc_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/performance_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/selector_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/slick_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/slickspeed.htm.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/std_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/prop-base/strip_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/all_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/callback_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/dom_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/element_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/invalid_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/jquery-1.2.3.pack.js.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/mass_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/memory_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/misc_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/performance_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/selector_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/slick_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/slickspeed.htm.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/std_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/.svn/text-base/strip_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/all_test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/callback_testcase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/dom_testcase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/element_testcase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/html/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/html/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/invalid_testcase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/jquery-1.2.3.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/mass_test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/memory_test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/misc_testcase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/performance_test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/all-wcprops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/dir-prop-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/prop-base/all_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/prop-base/element_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/prop-base/memory_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/prop-base/performance_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/prop-base/selector_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/text-base/all_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/text-base/element_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/text-base/memory_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/text-base/performance_test.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/.svn/text-base/selector_testcase.php.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/all_test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/element_testcase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/memory_test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/performance_test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/reader/selector_testcase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/selector_testcase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/slick_test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/slickspeed.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/std_testcase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../simplehtmldom_1_5/testcase/strip_testcase.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/scraping/example_scraping_digg.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-299">
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/scraping/example_scraping_imdb.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-316" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/scraping/example_scraping_slashdot.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/example_advanced_selector.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/example_basic_selector.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/News.com.vn/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="50" column="40" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="40" />
+              <folding>
+                <element signature="e#17788#17794#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/News.com.vn/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/News.com.vn/getDataCatogory.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/simple_html_dom_utility.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-95" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>prin</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testcase/slickspeed.htm" />
+        <option value="$PROJECT_DIR$/app/google.htm" />
+        <option value="$PROJECT_DIR$/app/index.php" />
+        <option value="$PROJECT_DIR$/simple_html_dom.php" />
+        <option value="$PROJECT_DIR$/example/scraping/example_scraping_digg.php" />
+        <option value="$PROJECT_DIR$/example/example_basic_selector.php" />
+        <option value="$PROJECT_DIR$/News.com.vn/index.php" />
+        <option value="$PROJECT_DIR$/News.com.vn/database.php" />
+        <option value="$PROJECT_DIR$/News.com.vn/getDataCatogory.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-40" />
+    <option name="y" value="-19" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="simplehtmldom_1_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplehtmldom_1_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplehtmldom_1_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplehtmldom_1_5" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplehtmldom_1_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplehtmldom_1_5" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="scraping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplehtmldom_1_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplehtmldom_1_5" type="462c0819:PsiDirectoryNode" />
+              <item name="manual" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplehtmldom_1_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplehtmldom_1_5" type="462c0819:PsiDirectoryNode" />
+              <item name="manual" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplehtmldom_1_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplehtmldom_1_5" type="462c0819:PsiDirectoryNode" />
+              <item name="manual" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplehtmldom_1_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplehtmldom_1_5" type="462c0819:PsiDirectoryNode" />
+              <item name="News.com.vn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplehtmldom_1_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplehtmldom_1_5" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Final\php-final-assignment\Hopdx\simplehtmldom_1_5\News.com.vn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a62a2051-c371-4252-ae92-302498a4ee0f" name="Default Changelist" comment="" />
+      <created>1545375766555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545375766555</updated>
+      <workItem from="1545375767948" duration="3859000" />
+      <workItem from="1545379846478" duration="7063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10922000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testcase/slickspeed.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="e#107#111#1" expanded="true" />
+            <element signature="e#69#73#1" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple_html_dom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="1356" column="45" lean-forward="true" selection-start-line="1356" selection-start-column="45" selection-end-line="1356" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/all_test.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/google.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="8" selection-start-line="268" selection-start-column="50" selection-end-line="268" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/callback_testcase.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/example_advanced_selector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/scraping/example_scraping_digg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-299">
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/scraping/example_scraping_imdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-316" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/scraping/example_scraping_slashdot.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manual/img/tab.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manual/css/ui.tabs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manual/css/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1421" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/News.com.vn/common/scripts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/News.com.vn/02_archive-page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/News.com.vn/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/example_basic_selector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/simple_html_dom_utility.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/News.com.vn/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="40" />
+          <folding>
+            <element signature="e#17788#17794#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/News.com.vn/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/News.com.vn/getDataCatogory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
