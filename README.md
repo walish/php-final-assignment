@@ -8,6 +8,6 @@ Thời gian của commit cuối cùng hợp lệ: 17h15
 
 Yêu cầu: 
 - Thiết kế DB : 1đ
-- Sử dụng tool cron về và lưu thành công: 4đ
+- Sử dụng tool crawl về và lưu thành công: 4đ
 - Tạo website tin tức: 3đ (Yêu cầu có hiển thị list bài viết, và có chi tiết bài viết, tìm kiếm, ...)
 
